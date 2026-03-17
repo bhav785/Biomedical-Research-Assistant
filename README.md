@@ -56,7 +56,7 @@ venv\Scripts\activate   # Windows
 ### 3. Install dependencies
 
 ```bash
-pip install chromadb sentence-transformers groq python-dotenv biopython
+pip install requirements.txt
 ```
 
 ---
